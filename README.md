@@ -9,7 +9,7 @@ Neste desafio foram explorados conhecimentos em:
 * Validação de entradas (números inteiros, decimais e strings).
 * Uso de System.out.print e System.out.println para saída de dados.
 
-# Este código foi criado e versionado respectivamente com: 
+Este código foi criado e versionado respectivamente com: 
 * IDE Intellij
 * GIT
 
@@ -25,7 +25,7 @@ In this challenge, knowledge was explored in:
 * Input validation (integers, decimals, and strings).
 * Use of System.out.print and System.out.println for data output.
 
- # This code was created and versioned with:
+ This code was created and versioned with:
 * IDE: IntelliJ
 * GIT
 
