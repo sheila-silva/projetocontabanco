@@ -1,6 +1,5 @@
 # Projeto conta banco / terminal bancário:
 Este desafio de código foi proposto como uma das etapas de ensinamentos básicos da sintaxe ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-Proposto pela empresa educacional: DIO (Descobrimento, Iniciativa, Oportunidade) no curso: Bradesco - Java Cloud Nativo.
 
 Neste desafio foram explorados conhecimentos em: 
 * Declaração de classe e atributos.
@@ -17,7 +16,6 @@ Neste desafio foram explorados conhecimentos em:
 **********
 # Bank Account / Banking Terminal Project:
 This coding challenge was proposed as one of the basic syntax teaching stages ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-proposed by the educational company: DIO (Discovery, Initiative, Opportunity) in the course: Bradesco - Java Cloud Native. 
 
 In this challenge, knowledge was explored in:
 * Class and attribute declaration.
