@@ -14,6 +14,8 @@ Neste desafio foram explorados conhecimentos em:
 * GIT
 
 **********
+**********
+
 # Bank Account / Banking Terminal Project:
 This coding challenge was proposed as one of the basic syntax teaching stages ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
@@ -28,7 +30,6 @@ In this challenge, knowledge was explored in:
  *This code was created and versioned with:*
 * IDE: IntelliJ
 * GIT
-
 
 
 
